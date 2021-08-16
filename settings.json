@@ -1,0 +1,47 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "go.toolsManagement.autoUpdate": true,
+    "editor.linkedEditing": true,
+    "editor.fontSize": 20,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx",
+        "xml": {
+            "attr_quotes": "single"
+        }
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "window.zoomLevel": 1,
+    "explorer.confirmDelete": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "compressed",
+            //"extensionName": "min.css",
+            "savePath": "/dist/css"
+        }
+    ],
+    "liveSassCompile.settings.generateMap": false,
+    /*"css.remoteStyleSheets": [
+        "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    ],*/
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "workbench.list.smoothScrolling": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "debug.console.fontSize": 18,
+    "editor.formatOnSave": true,
+    "workbench.editor.enablePreview": false,
+    "javascript.implicitProjectConfig.checkJs": false,
+    "dart.debugExternalLibraries": true,
+    "dart,debugSdkLibraries": false,
+    "kite.showWelcomeNotificationOnStartup": false,
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.preferredHighContrastColorTheme": "Visual Studio Dark",
+    "scm.inputFontSize": 14
+}
